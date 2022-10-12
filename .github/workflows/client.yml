@@ -33,4 +33,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-34-waymokorea \
             --delete
-        working-directory: s3://fe-34-waymokorea
+        working-directory: "build"
