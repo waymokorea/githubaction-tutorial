@@ -18,7 +18,7 @@
 
 ## 🍎팀원 
 ### 프론트엔드
-|                         김민성                         |                         권수현                         |                        남궁태욱                         |
+|                         김민성                         |                         권수현                         |                        [남궁태욱](https://github.com/waymokorea)                         |
 | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
 | <img src ="https://avatars.githubusercontent.com/u/55015415?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/99517342?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/100844959?v=4" width="150" /> |
 
@@ -29,7 +29,119 @@
 | <img src ="https://avatars.githubusercontent.com/u/107696895?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/59863297?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/97619571?v=4" width="150" /> |
 
 
+</br>
+
+## 🛠기술 스택
+![17farm (4)](https://user-images.githubusercontent.com/100844959/204686633-82835b23-b502-4ba2-a888-2c90382bc706.png)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</br>
+
+
+## ☀️주요 기능 시연
+
+</br>
+
+<details>
+<summary> 회원가입, 로그인 , 로그아웃 </summary>
+</br>
+  <details>
+  <summary> 회원가입 </summary>
+  </details>
+</br>
+  <details>
+  <summary> 로그인 </summary>
+  </details>
+</br>  
+  <details>
+  <summary> 로그아웃 </summary>
+  </details>
+</details>
+</br>
+<details>
+<summary> 판매자 마이페이지, 판매자 정보 수정, 판매 물품 등록</summary>
+</br>
+<details>
+  <summary> 판매자 마이페이지 정보 조회 </summary>
+  </details>
+</br>
+  <details>
+  <summary> 판매자 정보 수정 </summary>
+  </details>
+</br>
+  <details>
+  <summary> 판매 물품 등록 </summary>
+  </details>
+</br>
+</details>
+</br>
+<details>
+<summary> 전체 게시판 조회 , 카테고리별 조회  </summary>
+</br>
+<details>
+<summary> 전체 게시판 조회  </summary>
+</details>
+</br>
+<details>
+<summary> 카테고리별 조회   </summary>
+</details>
+</br>
+</details>
+</br>
+
+
+<details>
+<summary> 판매물품 상세페이지 조회 수정 삭제, 리뷰, 문의 </summary>
+</br>
+<details>
+<summary> 판매 물품 상세 페이지 조회 </summary>
+</details>
+</br>
+<details>
+<summary> 판매 물품 상세 페이지 수정 </summary>
+</details>
+</br>
+<details>
+<summary> 판매 물품 상세 페이지 삭제 </summary>
+</details>
+</br>
+<details>
+<summary> 리뷰 작성   </summary>
+</details>
+</br>
+<details>
+<summary> 리뷰 삭제 </summary>
+</details>
+</br>
+<details>
+<summary>  문의 작성 </summary>
+</details>
+</br>
+<details>
+<summary>  문의 삭제</summary>
+</details>
+</details>
+
+</br>
+
+<details>
+</br>
+<summary> 상품 주문 , 결제 </summary>
+</br>
+<details>
+<summary> 상품 주문 등록</summary>
+</details>
+</br>
+<details>
+<summary> 결제 요청 </summary>
+</details>
+</br>
+<details>
+<summary> 결제 성공 </summary>
+</details>
+</br>
+<details>
+<summary> 결제 실패 </summary>
+</details>
+</details>
+
