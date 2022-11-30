@@ -18,13 +18,13 @@
 
 ## 🍎팀원 
 ### 프론트엔드
-|                         김민성                         |                         권수현                         |                        [남궁태욱](https://github.com/waymokorea)                         |
+|  [김민성](https://github.com/MinSeongKiim) |  [권수현](https://github.com/x-xuhxun)  |                       [남궁태욱](https://github.com/waymokorea)                         |
 | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
 | <img src ="https://avatars.githubusercontent.com/u/55015415?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/99517342?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/100844959?v=4" width="150" /> |
 
 ### 백엔드
 
-|                         가빈                         |                         신승현                          |                         신지훈                        |
+|    [가빈](https://github.com/Bhinney)          |            [신승현](https://github.com/Shin-seung-hyun)  |  [신지훈](https://github.com/Godjih)                        |
 | :----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------: |
 | <img src ="https://avatars.githubusercontent.com/u/107696895?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/59863297?v=4" width="150" /> | <img src ="https://avatars.githubusercontent.com/u/97619571?v=4" width="150" /> |
 
